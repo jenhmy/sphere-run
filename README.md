@@ -19,6 +19,7 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 ---
 
 ## 🏷️ Game Details
+<div align="center">
 
 | Category | Information |
 |----------|-------------|
@@ -26,6 +27,8 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 | **Mode** | Single-Player |
 | **Platform** | PC (Windows) |
 | **Engine** | Unity |
+
+</div>
 
 ---
 
@@ -38,6 +41,19 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 <div align="center">
   <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen02.png" alt="First level screenshot" width="600"/>
   <p><em>First level screenshot</em></p>
+</div>
+
+---
+
+## 🎥 Gameplay Video
+
+<div align="center">
+  <a href="https://youtu.be/yf9G4LefFA8" target="_blank">
+    <img src="https://img.youtube.com/vi/yf9G4LefFA8/0.jpg" 
+         alt="Sphere Run Gameplay" 
+         width="600" 
+         style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </a>
 </div>
 
 ---
@@ -61,10 +77,10 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 
 ## 🕹️ How to Play
 
-- **WASD keys**: Move the ball 
-- **Goal**: Collect all 🟡 yellow spheres in each level to unlock the exit
-- **Survive**: Don't touch the enemies! Avoid ⚪ white and 🔵 blue balls
-- **Progress**: Complete all 5 levels to win
+- **WASD keys**: Move the ball. 
+- **Goal**: Collect all 🟡 yellow spheres in each level to unlock the exit.
+- **Survive**: Don't touch the enemies! Avoid ⚪ white and 🔵 blue balls.
+- **Progress**: Complete all 5 levels to win.
 
 
 ---
