@@ -56,9 +56,8 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run (Windows)
 
-### Play the build (Windows)
 1. Go to the **[Releases page](https://github.com/jenhmy/sphere-run/releases)** 
 2. Download `SphereRun.zip`
 3. Extract the zip file
