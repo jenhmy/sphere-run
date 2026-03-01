@@ -32,13 +32,32 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen01.png" alt="Main menu screenshot" width="600"/>
-  <p><em>Main menu screenshot</em></p>
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen02.png" alt="First level screenshot" width="600"/>
-  <p><em>First level screenshot</em></p>
+### 📸 Screenshots
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen01.png" 
+         alt="Main menu" 
+         width="300" 
+         style="border-radius: 8px;">
+    <br><em>Main menu</em>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen02.png" 
+         alt="First level" 
+         width="300" 
+         style="border-radius: 8px;">
+    <br><em>First level</em>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen03.png" 
+         alt="Win screen" 
+         width="300" 
+         style="border-radius: 8px;">
+    <br><em>Win screen</em>
+  </div>
 </div>
 
 ---
