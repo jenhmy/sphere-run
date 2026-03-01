@@ -17,18 +17,15 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 ![Platform](https://img.shields.io/badge/Platform-Windows-0D47A1?style=for-the-badge&logoColor=white&labelColor=1565C0)
 ![Engine](https://img.shields.io/badge/Engine-Unity-0D47A1?style=for-the-badge&logoColor=white&labelColor=1565C0)
 
+
 ---
 
-## 🎥 Youtube Gameplay 
-<div align="center">
-  <a href="https://youtu.be/yf9G4LefFA8">
-    <img src="https://img.youtube.com/vi/yf9G4LefFA8/0.jpg" 
-         alt="Sphere Run Gameplay" 
-         width="600" 
-         style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </a>
-  <p><small>💡 Press <kbd>Ctrl</kbd>+<kbd>Click</kbd> (Windows/Linux) or <kbd>Cmd</kbd>+<kbd>Click</kbd> (Mac) to open in a new tab</small></p>
-</div>
+## 🕹️ How to Play
+
+- **WASD keys**: Move the ball. 
+- **Goal**: Collect all 🟡 yellow spheres in each level to unlock the exit.
+- **Survive**: Don't touch the enemies! Avoid ⚪ white and 🔵 blue balls.
+- **Progress**: Complete all 5 levels to win.
 
 ---
 
@@ -48,12 +45,16 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 
 ---
 
-## 🕹️ How to Play
-
-- **WASD keys**: Move the ball. 
-- **Goal**: Collect all 🟡 yellow spheres in each level to unlock the exit.
-- **Survive**: Don't touch the enemies! Avoid ⚪ white and 🔵 blue balls.
-- **Progress**: Complete all 5 levels to win.
+## 🎥 Youtube Gameplay 
+<div align="center">
+  <a href="https://youtu.be/yf9G4LefFA8">
+    <img src="https://img.youtube.com/vi/yf9G4LefFA8/0.jpg" 
+         alt="Sphere Run Gameplay" 
+         width="600" 
+         style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </a>
+  <p><small>💡 Press <kbd>Ctrl</kbd>+<kbd>Click</kbd> (Windows/Linux) or <kbd>Cmd</kbd>+<kbd>Click</kbd> (Mac) to open in a new tab</small></p>
+</div>
 
 ---
 
