@@ -32,8 +32,6 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 
 ---
 
-## 📸 Screenshots
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen01.png" alt="Main menu screenshot" width="600"/>
   <p><em>Main menu screenshot</em></p>
@@ -46,14 +44,14 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 ---
 
 ## 🎥 Gameplay Video
-
 <div align="center">
-  <a href="https://youtu.be/yf9G4LefFA8" target="_blank">
+  <a href="https://youtu.be/yf9G4LefFA8">
     <img src="https://img.youtube.com/vi/yf9G4LefFA8/0.jpg" 
          alt="Sphere Run Gameplay" 
          width="600" 
          style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
+  <p><small>💡 Press <kbd>Ctrl</kbd>+<kbd>Click</kbd> (Windows/Linux) or <kbd>Cmd</kbd>+<kbd>Click</kbd> (Mac) to open in a new tab</small></p>
 </div>
 
 ---
