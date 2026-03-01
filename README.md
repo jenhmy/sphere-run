@@ -27,24 +27,7 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
          width="600" 
          style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
-  <p>Click the image to watch the gameplay</p>
   <p><small>💡 Press <kbd>Ctrl</kbd>+<kbd>Click</kbd> (Windows/Linux) or <kbd>Cmd</kbd>+<kbd>Click</kbd> (Mac) to open in a new tab</small></p>
-</div>
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen01.png" 
-       alt="Main menu" 
-       width="300" 
-       style="border-radius: 8px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen02.png" 
-       alt="First level" 
-       width="300" 
-       style="border-radius: 8px; margin: 5px;">
-  <br>
 </div>
 
 ---
@@ -72,6 +55,21 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
 - **Survive**: Don't touch the enemies! Avoid ⚪ white and 🔵 blue balls.
 - **Progress**: Complete all 5 levels to win.
 
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen01.png" 
+       alt="Main menu" 
+       width="300" 
+       style="border-radius: 8px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen02.png" 
+       alt="First level" 
+       width="300" 
+       style="border-radius: 8px; margin: 5px;">
+  <br>
+</div>
 
 ---
 
