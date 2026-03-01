@@ -44,10 +44,6 @@ Get ready to **roll**, **dodge**, and **collect** your way to victory!
        alt="First level" 
        width="300" 
        style="border-radius: 8px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/jenhmy/sphere-run/refs/heads/main/Screenshots/Screen03.png" 
-       alt="Victory screen" 
-       width="300" 
-       style="border-radius: 8px; margin: 5px;">
   <br>
 </div>
 
